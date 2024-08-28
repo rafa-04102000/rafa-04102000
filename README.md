@@ -22,15 +22,15 @@
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="100" >
-   
-   
+</p>
+<p align="center">
+  - 🔭 Hola me llamo Tobías Rafael Zamora Santos.
 </p>
 
-
    
 
 
-  - 🔭 Hola me llamo Tobías Rafael Zamora Santos.
+  
    
 
    - 🌱 Durante lo que llevo estudiando he tenido la oportunidad de aprender distintos lenguajes como java, python, javascript, Go, también cuento con experiencia en frameworks como react.
