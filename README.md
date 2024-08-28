@@ -95,6 +95,18 @@
 </p>
 <br></br>
 
+<p align="center">
+   
+   - 👷‍♂️ He estado aprendido sobre github, con el fin de tener un buen manejo de ramas y los demas procesos de versionamiento, esto es
+     con el fin de poder tener buenas practicas al momento de trabar con mis distintos grupos de desarrollo.
+</p>
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170">
+</p>
+<br></br>
+
 
 
 
