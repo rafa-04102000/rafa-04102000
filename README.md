@@ -17,13 +17,13 @@
 
 </h1> 
 
-<p align="center">
+<p align="justify">
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos
-</p>
 
-<p align="center">
+
+
    - 🌱 I’m currently learning ...
-</p>
+
 
    - 👯 I’m looking to collaborate on ...
 
