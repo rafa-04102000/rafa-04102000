@@ -59,13 +59,15 @@
 </p>
 <br></br>
    
+<p align="center">
+   - 🤔 Cada error es una lección disfrazada; cada fallo en el código es un peldaño hacia la maestría.
+</p>
 
-   - 👯 I’m looking to collaborate on ...
-
-   - 🤔 I’m looking for help with ...
 
 
-   - 📫 How to reach me: ...
+
+
+
 
 
 
