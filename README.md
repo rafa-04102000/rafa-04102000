@@ -150,9 +150,9 @@
 
 <p align="center">
 
-   Mira al mesiRonaldoEmbape del desarrollo de software, visita [Vistia mi ig]([https://github.com](https://www.youtube.com/watch?v=w8MbR-No4X8)).
+   Mira al mesiRonaldoEmbape del desarrollo de software, visita  [🐱](https://www.youtube.com/watch?v=w8MbR-No4X8)
    
-   [🐱](https://www.youtube.com/watch?v=w8MbR-No4X8)
+  
 </p>
 
 <!--
