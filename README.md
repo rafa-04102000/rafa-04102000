@@ -47,17 +47,23 @@
 <p  align="center">
    <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="130">
    <img src="https://user-images.githubusercontent.com/74038190/215282741-2e852778-3a28-4f01-a126-4abab40949bc.png" width="130">
-
-   
 </p>
 <br></br>
-  
+
+<p align="center">
+    - 💬 Me gustan los gatos, y la pitza con piña es mi favorita.
+</p>
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/216656956-c5f97119-4de0-4e55-8906-c2699cc43ccd.gif" width="130">
+</p>
+<br></br>
+   
 
    - 👯 I’m looking to collaborate on ...
 
    - 🤔 I’m looking for help with ...
 
-   - 💬 Ask me about ...
 
    - 📫 How to reach me: ...
 
