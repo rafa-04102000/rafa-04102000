@@ -1,4 +1,4 @@
-<h1 align="center"> Rafael <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" width="100" height="25"> </h1> 
+<h1 align="center"> Rafael <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" width="50" height="50"> </h1> 
 
 <!--
 **rafa-04102000/rafa-04102000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
