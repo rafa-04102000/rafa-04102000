@@ -19,19 +19,22 @@
 
 <p align="center">
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos
-   <br></br>
+</p>
+
+<p align="center">
    - 🌱 I’m currently learning ...
-   <br></br>
+</p>
+
    - 👯 I’m looking to collaborate on ...
-   <br></br>
+
    - 🤔 I’m looking for help with ...
-   <br></br>
+
    - 💬 Ask me about ...
-   <br></br>
+
    - 📫 How to reach me: ...
-   <br></br>
+
    - ⚡ Me gusta ver peliculas de terror y ver videos sobre cosas que no se 
-   <br></br>
+
 </p>
 
 
