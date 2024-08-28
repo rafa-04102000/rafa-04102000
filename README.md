@@ -89,6 +89,8 @@
    <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="170">
    <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="130">
 </p>
+<br></br>
+
 <p align="center">
    
    - 👷‍♂️ Al finalizar mis estudios medios, tuve la oportunidad de trabajar, el ambito laboral fue una experiencia nueva para mi
