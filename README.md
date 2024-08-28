@@ -103,11 +103,7 @@
 
 <br></br>
 
-<p  align="center">
-   
-   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
 
-</p>
 <p align="center">
    
    - 👷‍♂️ He estado aprendido sobre github, con el fin de tener un buen manejo de ramas y los demas procesos de versionamiento, esto es
@@ -121,6 +117,19 @@
 </p>
 
 <br></br>
+
+<p align="center">
+   
+   - 👷‍♂️ He tenido la oportunidad de crear paginas web, me gusta el resultado pero el proceso se me es tedioso,
+     html y sobre todo el css me resulta una labor extensa, he podido hacer webs con sus respectivas api las cuales
+     han sido desarrolladas con node.js, express, mongo y otras tecnologias.
+</p>
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
+</p>
+
+<br></br>
+
 
 
 
