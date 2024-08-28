@@ -134,6 +134,13 @@
 
 <br></br>
 
+<p align="center">
+   
+   - 👷‍♂️ En la actualidad he estado probando trabajar en otro sistema operativo el cual seria Linux, la distribucion que he elijido
+     es Ubuntu, si bien es un nuevo reto debido a los comandos que se usa, es interesante lo que se puede lograr haciendo un buen uso
+     de estos.
+</p>
+<br></br>
 
 
 
