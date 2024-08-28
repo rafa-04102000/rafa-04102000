@@ -60,8 +60,12 @@
 <br></br>
    
 <p align="center">
-   - 🤔 Cada error es una lección disfrazada; cada fallo en el código es un peldaño hacia la maestría.
+   - 😄 Cada error es una lección disfrazada; cada fallo en el código es un peldaño hacia la maestría.
 </p>
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="130">
+</p>
+   <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="130">
 
 
 
