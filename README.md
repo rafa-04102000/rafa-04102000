@@ -21,10 +21,10 @@
   
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="100" >
+  - 🔭 Hola me llamo Tobías Rafael Zamora Santos.
 </p>
 <p align="center">
-  - 🔭 Hola me llamo Tobías Rafael Zamora Santos.
+   <img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="100" >
 </p>
 
    
