@@ -23,6 +23,7 @@
    
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos <img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="100" >
 
+</p>
    - 🌱 I’m currently learning ...
 
    - 👯 I’m looking to collaborate on ...
@@ -35,7 +36,6 @@
 
    - ⚡ Me gusta ver peliculas de terror y ver videos sobre cosas que no se 
 
-</p>
 
 
 
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br></br>
+
 
 
