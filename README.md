@@ -93,23 +93,31 @@
    ya que los procesos que se llevan a cabo, tanto las tareas como la forma de programar que me eseñaron fue muy interesante.
    Logre aprender sobre el desarrollo móvil en Android, implementando lo que es React Native.
 </p>
+
 <p  align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180">
+   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="180">
 
 </p>
 
 <br></br>
 
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170">
+</p>
 <p align="center">
    
    - 👷‍♂️ He estado aprendido sobre github, con el fin de tener un buen manejo de ramas y los demas procesos de versionamiento, esto es
      con el fin de poder tener buenas practicas al momento de trabar con mis distintos grupos de desarrollo.
 </p>
 <p  align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="130">
-   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
-   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170">
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180">
+   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="180">
+
+
 </p>
+
 <br></br>
 
 
