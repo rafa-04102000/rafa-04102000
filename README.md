@@ -1,4 +1,4 @@
-<h1 aling="center"> Rafael 🐱 </h1> 
+<h1 align="center"> Rafael 🐱 </h1> 
 
 <!--
 **rafa-04102000/rafa-04102000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
