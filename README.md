@@ -83,7 +83,8 @@
 </h1> 
 
 <p align="center">
-    Al finalizar mis estudios medios, tuve la oportunidad de trabajar, el ambito laboral fue una experiencia nueva para mi
+   
+   - 👷‍♂️ Al finalizar mis estudios medios, tuve la oportunidad de trabajar, el ambito laboral fue una experiencia nueva para mi
    ya que los procesos que se llevan a cabo, tanto las tareas como la forma de programar que me eseñaron fue muy interesante.
    Logre aprender sobre el desarrollo móvil en Android, implementando lo que es React Native.
 </p>
