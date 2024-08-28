@@ -8,7 +8,8 @@
  
 <p  align="center" > 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" width="50" height="50">
-  ## Rafael 
+  Rafael 
+   <strong>este texto está en negrita</strong>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" width="50" height="50"> 
 </p> 
 
