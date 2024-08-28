@@ -2,13 +2,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" height="70%">
 </p>
 
-
-
 <h1 align="center"> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" width="50" height="50">
   Rafael 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" width="50" height="50"> 
 </h1> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%" height="70%">
+</p>
+
+
 
 <!--
 **rafa-04102000/rafa-04102000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
