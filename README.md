@@ -24,7 +24,6 @@
    
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos.
 
- 
 </p>
    
 
