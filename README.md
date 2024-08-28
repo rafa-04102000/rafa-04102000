@@ -43,6 +43,13 @@
 <p align="center">
     - ⚡ Me gusta ver peliculas de terror y ver videos sobre cosas que no se.
 </p>
+
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="100">
+
+   
+</p>
+<br></br>
   
 
    - 👯 I’m looking to collaborate on ...
