@@ -17,9 +17,6 @@
 
 </h1> 
 
-<div style="text-align: center; font-weight: bold; font-size: 24px;">
-  Este es un párrafo centrado y en negrita.
-</div>
 
 <p align="justify">
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos
