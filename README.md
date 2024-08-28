@@ -150,6 +150,7 @@
 
 Mira al mesiRonaldoEmbape del desarrollo de software, visita [Vistia mi ig]([https://github.com](https://www.youtube.com/watch?v=w8MbR-No4X8)).
 
+[Ver video en YouTube](https://www.youtube.com/watch?v=w8MbR-No4X8)
 
 <!--
 **rafa-04102000/rafa-04102000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
