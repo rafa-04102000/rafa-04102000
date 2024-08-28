@@ -4,7 +4,7 @@
 
 <h1 align="center"> 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" >
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
    </p>
     
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" width="50" height="50">
@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crying%20Cat.png" width="50" height="50"> 
 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" >
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
    </p>
 
 </h1> 
@@ -20,10 +20,7 @@
 <p align="justify">
    - 🔭 Hola me llamo Tobías Rafael Zamora Santos
 
-
-
    - 🌱 I’m currently learning ...
-
 
    - 👯 I’m looking to collaborate on ...
 
