@@ -143,7 +143,7 @@
 <br></br>
 
 <p  align="center">
-   <img src="https://tenor.com/view/gif-de-aaron-anime-gif-19682185" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="130">
 
   
 </p>
