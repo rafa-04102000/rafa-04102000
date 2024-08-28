@@ -73,9 +73,21 @@
 <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="70%" height="60%">
 </p>
+<br></br>
 
+<h1 align="center" > 
+  
+   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
+   Experiencia Laboral
+   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
 
+</h1> 
 
+<p align="center">
+    Al finalizar mis estudios medios, tuve la oportunidad de trabajar, el ambito laboral fue una experiencia nueva para mi
+   ya que los procesos que se llevan a cabo, tanto las tareas como la forma de programar que me eseñaron fue muy interesante.
+   Logre aprender sobre el desarrollo móvil en Android, implementando lo que es React Native.
+</p>
 
 
 
