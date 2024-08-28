@@ -82,6 +82,11 @@
 
 </h1> 
 
+<p  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212259459-f085bf03-159b-4e89-9d0d-c5b29ca2d102.jpg" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" width="130">
+   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="170">
+</p>
 <p align="center">
    
    - 👷‍♂️ Al finalizar mis estudios medios, tuve la oportunidad de trabajar, el ambito laboral fue una experiencia nueva para mi
@@ -89,10 +94,10 @@
    Logre aprender sobre el desarrollo móvil en Android, implementando lo que es React Native.
 </p>
 <p  align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212259459-f085bf03-159b-4e89-9d0d-c5b29ca2d102.jpg" width="130">
-   <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" width="130">
-   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="170">
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180">
+
 </p>
+
 <br></br>
 
 <p align="center">
