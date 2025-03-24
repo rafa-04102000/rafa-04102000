@@ -1,6 +1,18 @@
 <h1 align="center">Hola 👋, Yo soy Tobías Rafael Zamora Santos</h1>
 <h3 align="center">Me gusta aprender Cosas Nuevas</h3>
 
+- 🔭 Actualmete Estudio en [Univesidad de San Calos](https://usac.edu.gt/)
+
+- 🌱 Me gusta aprender **Coasas nuevas**
+
+- 👯 Me gustaria Colaborar con **Pesonas de las cuales pueda aprender algo**
+
+- 🤝 Me gustaria ayudrte **Mandame un mensaje**
+
+- 💬 Sobre mi **Me gusta Trabajar en React y usar sus distintas librerias**
+
+- ⚡ En mi tiempo libre **Me gusta ver seires**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
