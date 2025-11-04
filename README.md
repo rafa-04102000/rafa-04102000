@@ -103,7 +103,7 @@ Soy **Tobías Rafael Zamora Santos**, estudiante de **Ingeniería en Ciencias y 
 ---
 
 
-![TechStack](./Estadisticas.png)
+![Estadisticas](./Estadisticas.png)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafa-04102000&bg_color=011627&color=79d3c3&show_icons=true&theme=default" />
@@ -115,17 +115,20 @@ Soy **Tobías Rafael Zamora Santos**, estudiante de **Ingeniería en Ciencias y 
 ---
 
 
-![TechStack](./Contacto.png)
+![Contacto](./Contacto.png)
 
 - ![Discord](https://skillicons.dev/icons?i=discord) `rafa0410`
 - ![Gmail](https://skillicons.dev/icons?i=gmail) _r.zamorasantos@gmail.com_
 - ![Gmail](https://skillicons.dev/icons?i=github) _https://github.com/rafa-04102000_
+
+---
+
+![Bye](./Bye.png)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
 
----
 
-<p align="center">:) Bye.</p>
 
