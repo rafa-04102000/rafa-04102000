@@ -1,121 +1,131 @@
-<!-- PERFIL README - Tobías Rafael Zamora Santos -->
+<!--Banner-->
+![Bienvenido](./Bienvenido.png)
 
+<!-- PERFIL README - Tobías Rafael Zamora Santos -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+soy+Tob%C3%ADas+Rafael+Zamora+Santos!;%F0%9F%9A%80+Desarrollo+web+%2B+DevOps+%2B+Datos;%F0%9F%93%9A+Estudiante+de+Ingenier%C3%ADa+USAC+%7C+Tutor+Auxiliar+%7C+COECYS+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=%23FFFFFF&center=true&vCenter=true&width=800&lines=%C2%A1Hola%2C+soy+Tob%C3%ADas+Rafael+Zamora+Santos!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/USAC-Ingenier%C3%ADa-blue" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Role-Tutor%20Auxiliar-success" /></a>
   <a href="#"><img src="https://img.shields.io/badge/COECYS-2025-%23ff69b4" /></a>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat&label=Visitas" /></a>
+  <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat&label=Visitas" /></a> -->
 </p>
 
 ---
 
-## 👋 Sobre mí
 
-Soy **Tobías Rafael Zamora Santos**, estudiante de **Ingeniería en Ciencias y Sistemas (USAC)**. Me apasiona **aprender cosas nuevas** y construir soluciones que mezclan **desarrollo web**, **DevOps/Cloud** y **ciencia de datos**. Disfruto colaborar en equipos donde pueda **aprender de otros** y compartir lo que sé.
+![SobreMi](./Sobre%20mi.png)
 
-- 🔭 Actualmente: proyectos académicos y personales con **React**, **Node.js**, **Go**, **Docker** y **AWS/Azure**.
-- 🌱 Aprendiendo: **Kubernetes**, **microservicios gRPC**, **ARM asm/codegen**, **R para análisis**.
+
+Soy **Tobías Rafael Zamora Santos**, estudiante de **Ingeniería en Ciencias y Sistemas (USAC)**. Me apasiona **aprender cosas nuevas** y construir soluciones que mezclan **desarrollo web**, **DevOps/Cloud** y **backend**. Disfruto colaborar en equipos donde pueda **aprender de otros** y compartir lo que sé.
+
+- 🔭 Actualmente: proyectos académicos y personales con **React**, **Node.js**, **Go**, **Docker** y **AWS/Azure/GCP**.
+- 🌱 Aprendiendo: **Kubernetes**, **microservicios gRPC**, **ARM asm/codegen**.
 - 🤝 Busco colaborar en: proyectos open‑source de **backend**, **infraestructura** y **visualización de datos**.
-- 💬 Pregúntame sobre: **React**, **APIs con Node/Express**, **contenedores** y **redes (Cisco)**.
-- ⚡ Fun fact: en mis ratos libres veo **series** y armo **laboratorios de redes**.
+- 💬 Pregúntame sobre: **React**, **APIs con Node/Express**, **contenedores** y **Bases de datos**.
+- ⚡ Fun fact: en mis ratos libres veo **series**.
 
 ---
 
-## 🧰 Tech Stack
+![TechStack](./Tech%20stack.png)
+
 
 **Lenguajes:**
 
-<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/ARM%20Assembly-555555" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python,go,typescript,cpp,java" />
+  </a>
+</p>
 
 **Frontend:**
 
-<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,django,flask,materialui,npm,pnpm,vite" />
+  </a>
+</p>
 
 **Backend & Datos:**
 
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,jest,npm,pnpm" />
+  </a>
+</p>
 
 **DevOps & Cloud:**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,linux,git,kubernetes,githubactions,github,gitlab" />
+  </a>
+</p>
+
+**Plataformas**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+</p>
+
+**Editores o IDES**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+  </a>
+</p>
+
+**Otras herramientas/tecnologias utilizadas**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,firebase,grafana,kafka,latex,netlify,powershell,processing,rabbitmq,r,raspberrypi,regex,rust" />
+  </a>
+</p>
 
 ---
 
-## 🚀 En qué estoy trabajando
+![TechStack](./Proyectos.png)
 
-- **StreamingUSAC**: arquitectura multicloud (AWS + Azure + GCP) con **Node/Flask**, **React**, **S3**, **transcripción/ traducción** y **Kubernetes**.
+
 - **Lenguaje con ANTLR + Go**: funciones, slices, `break/continue`, y **codegen a ARM**.
 - **Laboratorios de Redes Cisco**: VLANs, OSPF/EIGRP/BGP, HSRP, STP, LACP y seguridad de switches.
 - **Dashboards y Analítica**: **Grafana** con **MySQL/Valkey**, series temporales y KPIs.
+- **En 2025** fui parte del comite organizador de **COECYS 2025** en el puesto de encargado de **Visitas Técnicas**.
 
-> _Si te interesan estos temas, ¡abramos un issue o conversemos por DM!_
 
----
-
-## 📌 Proyectos destacados
-
-> *(Reemplaza `tu-usuario` y las URLs por los repos reales y usa "Pin" en tu perfil para fijarlos)*
-
-- **StreamingUSAC** → [tu-usuario/streamingusac](https://github.com/tu-usuario/streamingusac)
-- **CalcScript (ANTLR + Go)** → [tu-usuario/calcscript](https://github.com/tu-usuario/calcscript)
-- **ARM CodeGen Visitor** → [tu-usuario/arm-codegen-visitor](https://github.com/tu-usuario/arm-codegen-visitor)
-- **Redes‑Labs** → [tu-usuario/redes-labs](https://github.com/tu-usuario/redes-labs)
 
 ---
 
-## 📊 Estadísticas
+
+![TechStack](./Estadisticas.png)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafa-04102000&bg_color=011627&color=79d3c3&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-04102000&bg_color=011627&color=79d3c3&layout=compact&langs_count=8" />
 
-<!-- Extra: streaks (opcional) -->
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=tu-usuario" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafa-04102000&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </p>
 
 ---
 
-## 🤝 Contacto
 
-- ✉️ **Email:** _tu-correo@ejemplo.com_
-- 💼 **LinkedIn:** [linkedin.com/in/tu‑usuario](https://www.linkedin.com/)  
-- 🐙 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+![TechStack](./Contacto.png)
 
----
+- ![Discord](https://skillicons.dev/icons?i=discord) `rafa0410`
+- ![Gmail](https://skillicons.dev/icons?i=gmail) _r.zamorasantos@gmail.com_
+- ![Gmail](https://skillicons.dev/icons?i=github) _https://github.com/rafa-04102000_
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
-### 📝 Nota rápida
-
-1. Cambia todos los `tu-usuario` por tu usuario real de GitHub.  
-2. Actualiza enlaces de proyectos y tu correo/LinkedIn.  
-3. Para usar este README:
-   - Crea un repositorio **con el mismo nombre que tu usuario** de GitHub (ej.: `tuzamora` → repo `tuzamora`).
-   - Añade este archivo como **README.md** en la raíz del repo y públícalo.
 
 ---
 
-<p align="center">Hecho con ❤️ y muchas ganas de aprender.</p>
+<p align="center">:) Bye.</p>
 
